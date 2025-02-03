@@ -1,0 +1,10 @@
+1) WAP to calc SI using function.
+2) WAP That defines a function to add first n numbers.
+3) WAP to find maximum number from given 2 numbers using function.
+4) WAP to take a string from user and pass it as an argument and convert all lower case characters into uppercase using function.
+5) WAP to find factorial of a given number using function.
+6) WAP to to generate fibonacci series using function.
+7) WAP to implement a simple calc using lambda function.
+8) WAP that defines a function that returns one if the number is prime otherwise returns zero.
+9) WAP to find factorial of a given number using recursion.
+10) WAP to generate fibonacci series of n numbers using recursion.
